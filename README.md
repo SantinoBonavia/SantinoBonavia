@@ -1,55 +1,58 @@
-
+<!-- ===================== BANNER ===================== -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=Santino%20Bonavia&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" alt="Banner" />
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Santino!;Bienvenidos+a+mi+perfil!;Junior;Comprometido+y+creativo;Creando+proyectos+personales" alt="Typing SVG" /></a>
 
-<details>
-<summary>Pulse Aqui</summary>
+<!-- ===================== REDES ===================== -->
+<a href="https://www.linkedin.com/in/santino-bonavia-19ba54277/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:santinobonavia@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.youtube.com/@santinobonavia"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/santino_bonavia/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-[comment]: <> (View Counter)
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of Santino Bonavia">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Santino!;Bienvenidos+a+mi+perfil!;Junior;Comprometido+y+ambicioso;Deportista;" alt="Typing SVG" /></a>
-  </div>
+<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About me
+
 </div>
-
-<details>
-<summary>Sobre Mi</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
 
 ```js
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Cordoba, Argentina.
- * @param {string} languagues - Español, Portugues.
+ * @param {string} city - Córdoba, Argentina.
+ * @param {string} languages - Español, Portugués.
  * @param {string} jobTitle - Junior.
- * @param {string} interests - AI, Desarollo Web.
- * @param {string} hobbies - Mirar peliculas, Futbol, Viajar.
- * @param {string} education - Siglo 21.
+ * @param {string} interests - AI, Desarrollo Web.
+ * @param {string} hobbies - Mirar películas, Fútbol, Viajar.
+ * @param {string} education - Ingeniería de Software @ Siglo 21.
  * @param {Date} birthday - 9/11/2005.
  */
 ```
 
+<div align="center">
+
+<!-- ===================== TECNOLOGÍAS ===================== -->
+## 🛠️ Technologies
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+
+<!-- ===================== ESTADÍSTICAS ===================== -->
+## 📈 Activity
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages by repo" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Commits by hour" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=100&section=footer" width="100%" alt="Footer" />
+
 </div>
-
-
-
-  </td>
-  </tr>
-</table>
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-
