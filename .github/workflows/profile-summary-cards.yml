@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # 2. Genera las tarjetas y las guarda en profile-summary-card-output/
-      - uses: vn7n24fb/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
