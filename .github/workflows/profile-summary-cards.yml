@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  # Se ejecuta todos los días a las 00:00 (UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo a mano desde la pestaña Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      # 1. Descarga tu repo para poder guardar las tarjetas adentro
+      - uses: actions/checkout@v4
+
+      # 2. Genera las tarjetas y las guarda en profile-summary-card-output/
+      - uses: vn7n24fb/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3
