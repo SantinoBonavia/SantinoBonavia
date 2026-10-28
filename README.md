@@ -23,8 +23,8 @@
  * @param {string} city - Córdoba, Argentina.
  * @param {string} languages - Español, Portugués.
  * @param {string} jobTitle - Junior.
- * @param {string} interests - AI, Desarrollo Web.
- * @param {string} hobbies - Mirar películas, Fútbol, Viajar.
+ * @param {string} interests - AI, Desarrollo Web, Robotica.
+ * @param {string} hobbies - Películas, Fútbol, Viajar.
  * @param {string} education - Ingeniería de Software @ Siglo 21.
  * @param {Date} birthday - 9/11/2005.
  */
